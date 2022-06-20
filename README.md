@@ -12,7 +12,7 @@ To Do this I follow these steps:
 ---
 In this project we try to do the following:
 1. Connecting to the DB using the Pros file.So When you want to run the application you need to 
-configure the DataBase proprty file located at : D:\\StudyWorkSpace\\DatabaseConfig.properties 
+configure the DataBase proprty file located at - src folder.
 2. Create business rule named CDWHValidator to make some business logic
 3. Use the - Log4j - to log the activity during the business cycle
 4. Connection pool to use limit number of connection to manage resource usage.
